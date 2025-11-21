@@ -634,6 +634,8 @@ body.fade {
 	margin-top: -11.75em;
 	font-size: 1.25em;
 	font-style: italic;
+
+	visibility: hidden;
 	
 	-webkit-transition: .5s ease-in-out;
 	-moz-transition: .5s ease-in-out;
@@ -678,6 +680,8 @@ body.fade {
 	margin-top: -6em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -716,6 +720,8 @@ body.fade {
 	margin-top: -10.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -753,6 +759,8 @@ body.fade {
 	margin-top: -10.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -785,6 +793,8 @@ body.fade {
 	margin-top: -6em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -817,6 +827,8 @@ body.fade {
 	margin-top: -10.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -1184,6 +1196,7 @@ footer.fade {
 
 
 /* ---------------------------------------------------- MEDIA Queries Medium END -------------------------------------------------------- */
+
 
 
 
