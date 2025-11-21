@@ -337,8 +337,6 @@ body::-webkit-scrollbar {
 	margin-right: auto;
 	opacity: 1;			
 
-	cursor: pointer;
-
 	-webkit-transition: .20s ease-in-out;
 	-moz-transition: .20s ease-in-out;
 	-o-transition: .20s ease-in-out;
@@ -1676,6 +1674,7 @@ footer.fade {
 /* ------------------------- 320 px END ------------------------- */
 
 /* ---------------------------------------------------- MEDIA Queries TINIER END -------------------------------------------------------- */
+
 
 
 
