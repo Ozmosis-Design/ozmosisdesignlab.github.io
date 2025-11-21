@@ -622,6 +622,8 @@ body::-webkit-scrollbar {
 	margin-top: -19em;
 	font-size: 1.25em;
 	font-style: italic;
+
+	visibility: hidden;
 	
 	-webkit-transition: .5s ease-in-out;
 	-moz-transition: .5s ease-in-out;
@@ -666,6 +668,8 @@ body::-webkit-scrollbar {
 	margin-top: -4.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -704,6 +708,8 @@ body::-webkit-scrollbar {
 	margin-top: -8.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -741,6 +747,8 @@ body::-webkit-scrollbar {
 	margin-top: -8.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -773,6 +781,8 @@ body::-webkit-scrollbar {
 	margin-top: -4.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -805,6 +815,8 @@ body::-webkit-scrollbar {
 	margin-top: -8.5em;
 	
 	max-width: 90%;
+
+	visibility: hidden;
 	
 	position: relative;
 	z-index: 1;
@@ -1674,6 +1686,7 @@ footer.fade {
 /* ------------------------- 320 px END ------------------------- */
 
 /* ---------------------------------------------------- MEDIA Queries TINIER END -------------------------------------------------------- */
+
 
 
 
