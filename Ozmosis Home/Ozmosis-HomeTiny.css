@@ -336,7 +336,9 @@ body::-webkit-scrollbar {
 	margin-left: auto;
 	margin-right: auto;
 	opacity: 1;			
-	
+
+	cursor: pointer;
+
 	-webkit-transition: .20s ease-in-out;
 	-moz-transition: .20s ease-in-out;
 	-o-transition: .20s ease-in-out;
@@ -474,7 +476,6 @@ body::-webkit-scrollbar {
 	border-bottom: 1.2em solid black;
 	border-top: 1em solid transparent;
 
-	cursor: pointer;
 	transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	
@@ -1675,6 +1676,7 @@ footer.fade {
 /* ------------------------- 320 px END ------------------------- */
 
 /* ---------------------------------------------------- MEDIA Queries TINIER END -------------------------------------------------------- */
+
 
 
 
